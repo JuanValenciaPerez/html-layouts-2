@@ -1,0 +1,67 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.main-container{
+  width: 91%;
+  padding: 5%;
+  background-color: #d3d3d3;
+}
+
+.box {	
+  position: relative;
+  width: 100%;
+  height:150px;
+}
+ 
+.upper-box {
+	background-color: #fff;
+	padding: 3%;
+
+}
+
+.button {
+	background-color: #4CAF50;
+    color: white;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    height: 50px;
+    width: 	110px
+
+}
+.red-click {
+	background-color: #CC0000;
+}
+
+.blue-click {
+	background-color: #77B6FF;
+	margin-left: 5px;
+}
+
+.lower-box {
+	margin-top: 5%;
+	padding: 5%;
+	background-color: #ffffff;
+}
+
+.inside-lower {
+	background-color: #444;
+	height: 200px;
+	text-align: center;
+	font-size: 45px;
+	color: white;
+	margin-bottom: 30px;
+	padding-top: 25%
+}
+
+.footer {
+	background-color: #444;
+	color: white;
+	height: 30px;
+	text-align: right;
+	padding-right: 5%;
+	padding-top: 2%;
+}
